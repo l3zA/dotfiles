@@ -28,6 +28,8 @@ brew 'yarn'
 #brew 'youtube-dl'
 
 #cask '1password'
+cask 'java'
+cask 'eclipse-java'
 cask 'adium'
 cask 'atom'
 cask 'firefox'
